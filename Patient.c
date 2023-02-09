@@ -506,7 +506,7 @@ int isFileExists(const char *path)
     }
     return status;
 }
-void init()
+void init()  //main
 {
     FILE *fp = NULL;
     int status = 0;
