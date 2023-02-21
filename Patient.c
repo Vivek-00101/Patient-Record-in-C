@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include <conio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
 #include <ctype.h>
-#include <conio.h>
+
 
 //Used macro
 #define MAX_YR  9999
